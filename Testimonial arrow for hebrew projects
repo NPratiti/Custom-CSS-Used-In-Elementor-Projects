@@ -8,3 +8,17 @@
     width: 12px;
     border: 1px solid #2DAFE5 ;
 }
+
+/*Testimonial Icon Alignment Center Text Right*/
+.elementor-testimonial--layout-image_above .elementor-testimonial {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+Testimonial 
+.elementor-testimonial--layout-image_above .elementor-testimonial {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
