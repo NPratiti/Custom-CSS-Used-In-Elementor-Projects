@@ -1,0 +1,10 @@
+.elementor-1669 .elementor-element.elementor-element-c38354c .swiper-pagination-bullet {
+    height: 12px;
+    width: 12px;
+    border: 1px solid #2DAFE5;
+}
+.elementor-1669 .elementor-element.elementor-element-c38354c .swiper-pagination-bullet-active {
+    height: 12px;
+    width: 12px;
+    border: 1px solid #2DAFE5 ;
+}
