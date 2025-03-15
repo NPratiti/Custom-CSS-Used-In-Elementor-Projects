@@ -1,0 +1,24 @@
+Custom Title Of Whatsapp
+
+number?text=yourtext to show title on WhatsApp
+
+Paypal Button
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" novalidate="novalidate">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="L8SFNYBLBVYTC">
+<table>
+<tbody><tr><td><input type="hidden" name="on0" value="כן, אני רוצה משלוח גת!
+
+">כן, אני רוצה משלוח גת!
+
+</td></tr><tr><td><select name="os0">
+	<option value="500 גר'">500 גר' ₪329.00 ILS</option>
+	<option value="750 גר'">750 גר' ₪399.00 ILS</option>
+	<option value="1000 גר'">1000 גר' ₪489.00 ILS</option>
+</select> </td></tr>
+</tbody></table>
+<input type="hidden" name="currency_code" value="ILS">
+<input class="input-image" type="image" src="https://shlomito44.sg-host.com/wp-content/uploads/2024/05/PayPal.png" border="0" name="submit" alt="PayPal - הדרך הקלה והבטוחה יותר לשלם באינטרנט!">
+<img alt="" border="0" src="https://shlomito44.sg-host.com/wp-content/uploads/2024/05/PayPal.png" width="1" height="1">
+</form>
