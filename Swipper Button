@@ -1,0 +1,10 @@
+Swiper Button 
+.elementor-widget-reviews .elementor-swiper-button-next, .elementor-widget-reviews .swiper-container-rtl .elementor-swiper-button-prev, .elementor-widget-reviews .swiper-rtl .elementor-swiper-button-prev, .elementor-widget-testimonial-carousel .elementor-swiper-button-next, .elementor-widget-testimonial-carousel .swiper-container-rtl .elementor-swiper-button-prev, .elementor-widget-testimonial-carousel .swiper-rtl .elementor-swiper-button-prev {
+    left: 0;
+    right: unset;
+}
+.elementor-widget-reviews .elementor-swiper-button-prev, .elementor-widget-reviews .swiper-container-rtl .elementor-swiper-button-next, .elementor-widget-reviews .swiper-rtl .elementor-swiper-button-next, .elementor-widget-testimonial-carousel .elementor-swiper-button-prev, .elementor-widget-testimonial-carousel .swiper-container-rtl .elementor-swiper-button-next, .elementor-widget-testimonial-carousel .swiper-rtl .elementor-swiper-button-next {
+    right: 0;
+    left: unset;
+}
+
