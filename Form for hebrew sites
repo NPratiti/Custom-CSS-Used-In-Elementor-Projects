@@ -1,0 +1,11 @@
+/* Form right alignment code css */
+.elementor-form-fields-wrapper.elementor-labels-above .elementor-field-group .elementor-field-subgroup, .elementor-form-fields-wrapper.elementor-labels-above .elementor-field-group>.elementor-select-wrapper, .elementor-form-fields-wrapper.elementor-labels-above .elementor-field-group>input, .elementor-form-fields-wrapper.elementor-labels-above .elementor-field-group>textarea {
+    flex-basis: 100%;
+    max-width: 100%;
+    text-align: right;
+}
+.elementor-form .elementor-button>span {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
